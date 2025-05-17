@@ -3,7 +3,7 @@
 ![logo](images/logo.jpg)
 
 
-This repository is dedicated to creating a starting point for your new and shiny Rapsberry Pi Pico.  
+This repository is dedicated to creating a starting point for your new and shiny Rapsberry Pi Pico using Azure IoT via Azure IoT Central.  
 
 Start with the <b>Getting Started</b> page for the Pico provided by the <b>Raspberry Pi Foundation</b>  [Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
 
