@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "dtmi:dataAndAiCommunityDay:AiDataJoburg2025FreePicoIoTGift_2mh;1",
+    "@type": "Interface",
+    "contents": [
+      {
+        "@id": "dtmi:dataAndAiCommunityDay:AiDataJoburg2025FreePicoIoTGift_2mh:Temperature;1",
+        "@type": [
+          "Telemetry",
+          "Temperature",
+          "NumberValue"
+        ],
+        "displayName": {
+          "en": "Temperature"
+        },
+        "name": "Temperature",
+        "schema": "double"
+      },
+      {
+        "@id": "dtmi:dataAndAiCommunityDay:AiDataJoburg2025FreePicoIoTGift_2mh:Humidity;1",
+        "@type": [
+          "Telemetry",
+          "Humidity",
+          "NumberValue"
+        ],
+        "displayName": {
+          "en": "Humidity"
+        },
+        "name": "Humidity",
+        "schema": "double"
+      },
+      {
+        "@id": "dtmi:dataAndAiCommunityDay:AiDataJoburg2025FreePicoIoTGift_2mh:LightCommand;1",
+        "@type": "Command",
+        "commandType": "synchronous",
+        "displayName": {
+          "en": "LightCommand"
+        },
+        "name": "LightCommand"
+      }
+    ],
+    "displayName": {
+      "en": "Ai Data Joburg 2025 Free Pico IoT Gift"
+    },
+    "@context": [
+      "dtmi:iotcentral:context;2",
+      "dtmi:dtdl:context;2"
+    ]
+  }
+]
