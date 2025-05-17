@@ -9,61 +9,61 @@ Follow the <b>Getting Started</b> page for Azure IoT Contral provided by <b>Micr
 
 Create a new Device Template by clicking on the <b>New</b> button
 
-![NewTemplate](Images/newtemplate.png)
+![NewTemplate](images/newtemplate.png)
 
 Create an IoT Device which is a cloud connected IoT Device.
 
-![NewTemplateDevice](Images/newtemplateiotdevice.png)
+![NewTemplateDevice](images/newtemplateiotdevice.png)
 
 Provide a template name.
 
-![CreateTemplate](Images/templatename.png)
+![CreateTemplate](images/templatename.png)
 
 Create the Template.
 
-![CreateTemplate](Images/createtemplate.png)
+![CreateTemplate](images/createtemplate.png)
 
 Import the provided model.  This is found in the <b>Models</b> folder within the Github repository.
 
-![ImportModel](Images/importmodel.png)
+![ImportModel](images/importmodel.png)
 
 Once imported, generate template views from the model.
 
-![GenerateViews](Images/generateviews.png)
+![GenerateViews](images/generateviews.png)
 
 Publish the template as a versioned template.
 
-![PublishTemplate](Images/publishtemplate.png)
+![PublishTemplate](images/publishtemplate.png)
 
 Create a new device using the created template.
 
-![NewDevice](Images/newdevice.png)
+![NewDevice](images/newdevice.png)
 
 Create the new device with name and device id.   Be sure to select the previously created template.
 
-![DeviceFields](Images/createdevicefields.png)
+![DeviceFields](images/createdevicefields.png)
 
 Open the Device Connection screen.
 
-![DeviceConnect](Images/deviceconnect.png)
+![DeviceConnect](images/deviceconnect.png)
 
 Take note of all the connection settings for using in the provided source code.
 
-![NewTemplate](Images/connectionsettings.png)
+![NewTemplate](images/connectionsettings.png)
 
 Build the cicuit on the breadboard using the provided components.
 
-![breadboard](Images/picogift_bb.png)
+![breadboard](images/picogift_bb.png)
 
 Edit the provided code.  Provide your wifi <b>SSID</b> and <b>WIFIPASSWORD</b>
 
-![breadboard](Images/wifi.png)
+![breadboard](images/wifi.png)
 
 Provide the <b>SCOPEID</b>, <b>DEVICEID</b> and <b>PRIMARYKEY</b>
 
-![breadboard](Images/provisionsettings.png)
+![breadboard](images/provisionsettings.png)
 
 
 Run the application on the Pico and have FUN!
 
-![breadboard](Images/running.png)
+![breadboard](images/running.png)
